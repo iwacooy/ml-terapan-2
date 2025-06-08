@@ -25,7 +25,7 @@ Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar un
 **Sumber data:**
 - [Students' Performance](https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/refs/heads/main/students_performance/data.csv)
 
-**Setup environment:**
+**Setup environment anaconda:**
 
 1. Clone this Repository
    ```bash
