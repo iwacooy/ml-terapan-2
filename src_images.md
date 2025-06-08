@@ -4,3 +4,5 @@
 ![Proporsi daytime and holder scholarship ](https://github.com/user-attachments/assets/225943b4-283b-4eee-a32e-114c6e287567)
 
 ![Daytime Scholarship](https://github.com/user-attachments/assets/0d06f97f-5444-4ee9-bbb4-6384ae3d6088)
+![Lanjutan2](https://github.com/user-attachments/assets/8d3a35d6-5a98-4fb9-8cc0-fc72bf029f58)
+
