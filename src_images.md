@@ -6,7 +6,8 @@
 ![Daytime Scholarship](https://github.com/user-attachments/assets/0d06f97f-5444-4ee9-bbb4-6384ae3d6088)
 ![Lanjutan2](https://github.com/user-attachments/assets/8d3a35d6-5a98-4fb9-8cc0-fc72bf029f58)
 
-![1](https://github.com/user-attachments/assets/49be0544-9699-4359-8e62-61d581077948)
-![2](https://github.com/user-attachments/assets/3e0fdecb-3235-48b0-ad97-aa8a071c5549)
+![1](https://github.com/user-attachments/assets/57f997fc-5ae9-4782-a1af-c78c75455f61)
+![2](https://github.com/user-attachments/assets/0b20bc64-dc0c-4f87-bc3c-a80115fd6f69)
 ![3](https://github.com/user-attachments/assets/e0a3ed0b-ba5e-46ca-b99a-716c63779758)
+
 
